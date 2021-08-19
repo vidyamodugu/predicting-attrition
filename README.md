@@ -34,20 +34,20 @@ Stepwise Regression- Independent variables are added at each step and their impo
 Backward Stepwise Regression- least important/insignificant variables are dropped one by one.
 
 
-REASONS FOR CHOOSING THE MODEL
+REASONS FOR CHOOSING THE MODEL:
 Response variable is a binary dependent variable.
 Dependent variable are both bivariate and multivariate variables 
 
 The relationship between both dependent and independent variables are both linear and non linear
 The results are probabilities of a representative staying.
 
-ATTRITION RESULTS
+ATTRITION RESULTS:
 Out of 3884 representatives as of 2016, 3804 representative's with probabilities higher than 3806 were grouped into category stay and the representative's with probabilities less than 0.5 are grouped as leave. 
 
 Within each group the representatives are categorized based on their net revenue. The representatives with total revenue greater than 5000 and representatives with revenue less than 5000.
 
 
-ATTRITION RESULTS
+ATTRITION RESULTS:
 AIC (Akaike Information Criteria) – AIC is equivalent to metric of adjusted R² in Logistic Regression. Minimum value of AIC represents the model fit.
                                                 AIC=739.06
 ROC CURVE:  Receiver Operating Characteristic summarizes the model’s performance. It evaluates the trade offs between sensitivity and  specificity. Higher the area under the curve high is the accuracy of the prediction.
