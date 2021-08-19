@@ -58,13 +58,19 @@ Results for representatives Attrition were measures against three important metr
 
 https://public.tableau.com/views/predictions_1/Sheet1?:embed=y&:display_count=yes 
 
+
+
+REQUIRMENTS:
+R Studio
+
+Packages:
+dplyr
+snow
+ggplot2
+corr
+Caret
+MASS
+ROCR
+Amelia
+mblench
  
-
-
-
-
-
-
-
-
-
